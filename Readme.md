@@ -9,7 +9,7 @@ This project explores the use of a glove equipped with flex sensors on each fing
 
 > Please, find documentations through following links 
 
-Project Report: [here](https://docs.google.com/document/d/1gL_c4BlxqP8ISIDm0Py-T-ePMDPG7qw1Fc6F-MYCPrk/edit?usp=sharing)
+Project Report: [here](https://drive.google.com/file/d/1FhDKdjihH3C6WtuiAkJMdMqAWktrXtSK/view?usp=sharing)
 
 Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsIl3rfCUv7YJyBS03Tobo?usp=sharing)
 
