@@ -1,6 +1,6 @@
-# Multisensory Quick Sign Language Learning project
+# Testing the Effects of Background Music and Tempo on American Sign Language Gesture Retention for Hearing Individuals
 
-Welcome to our project of the course Multisensory Interactive Systems by Professor Luca Turchet in Univerisity of Trento.
+Welcome to our project of the course Multisensory Interactive Systems by Professor Luca Turchet in Univerisity of Trento in the academic year 2024-2025.
 
 This project explores the use of a glove equipped with flex sensors on each finger to teach the American Sign Language (ASL) alphabet through an interactive memory game.
 
@@ -13,7 +13,7 @@ Project Report: [here](https://drive.google.com/file/d/1FhDKdjihH3C6WtuiAkJMdMqA
 
 Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsIl3rfCUv7YJyBS03Tobo?usp=sharing)
 
-All the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
+All the documentation related to the project can be found here: [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
     
 ## 🔧Tools used in the project
     - Arduino
@@ -46,8 +46,6 @@ All the documentation related to the project here [GoogleDrive](https://drive.go
 
     3. Open ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button 
     play to start
-
-> To start the system, each of tehe files mentioned above must be opened at the same time.
 
 > To start the system, each of tehe files mentioned above must be opened at the same time.
 
