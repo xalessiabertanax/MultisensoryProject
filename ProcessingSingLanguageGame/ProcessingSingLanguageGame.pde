@@ -3,6 +3,7 @@ import processing.serial.*;
 import processing.core.PImage;
 
 import oscP5.*;
+import netP5.*;
 
 import gifAnimation.*;
 
