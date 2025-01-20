@@ -5,12 +5,17 @@ Welcome to our project of the course Multisensory Interactive Systems by Profess
 This project explores the use of a glove equipped with flex sensors on each finger to teach the American Sign Language (ASL) alphabet through an interactive memory game.
 
 
+## Documentation and Project Report
 
-> Please, find our Project Report: [here](https://docs.google.com/document/d/1gL_c4BlxqP8ISIDm0Py-T-ePMDPG7qw1Fc6F-MYCPrk/edit?usp=sharing)
+> Please, find documentations through following links 
 
-> Please, find all the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=drive_link)
+Project Report: [here](https://docs.google.com/document/d/1gL_c4BlxqP8ISIDm0Py-T-ePMDPG7qw1Fc6F-MYCPrk/edit?usp=sharing)
 
-## Tools:
+Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsIl3rfCUv7YJyBS03Tobo?usp=sharing)
+
+All the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=drive_link)
+    
+## 🔧Tools used in the project
     - Arduino
     - Flex sensors - 5 pieces
     - Vibration motor - 1 piece
@@ -18,12 +23,12 @@ This project explores the use of a glove equipped with flex sensors on each fing
     - Breadboard
     - Jumper wires
 
-## Software tools
+## 💻Software tools used in the project
     - Arduino
     - Processing
     - Pure Data
 
-## How to make it work?
+## ⚙️ How to make it work?
 
 **There are 3 component directories of the system**
 ```
@@ -32,18 +37,22 @@ This project explores the use of a glove equipped with flex sensors on each fing
     - PureDataSignLanguageGame
 ```
 
-**And follow this order to make the system work**
+**Follow this order to make the system work**
 
-    1. Open and upload the ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino sketch to connected Arduino
+    1. Open and upload the ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino 
+    sketch to connected Arduino
 
     2. Open the PureDataSignLanguageGame/MAIN.pd
 
-    3. Open ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button play to start
+    3. Open ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button 
+    play to start
+
+> To start the system, each of tehe files mentioned above must be opened at the same time.
 
 > To start the system, each of tehe files mentioned above must be opened at the same time.
 
 
-## How to play the game
+## 🕹️How to play the game
 The user plays a memory game by memorizing/learning the sign language letters with their corresponding hand gestures Before the game starts, the user wears the glove and the glove is calibrated for the user to be personalized to take into account the hand size and finger length variations. 
 
 
