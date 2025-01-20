@@ -45,7 +45,7 @@ All the documentation related to the project can be found here: [Google Drive](h
 
     2. Open the /PureDataSignLanguageGame/MAIN.pd
 
-    3. Open /ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button 
+    3. Open /ProcessingSignLanguageGame/ProcessingSignLanguageGame.pde and press button 
     play to start
 
 > To start the system, each of tehe files mentioned above must be opened at the same time.
