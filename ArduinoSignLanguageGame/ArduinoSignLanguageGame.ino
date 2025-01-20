@@ -29,6 +29,7 @@ int sensorMin5; int sensorMax5;
 
 // ********* ********** //
 
+// Example of calibrated values of the sensor when it's straight and bended
 // int sensorMax1 = 243;
 // int sensorMax2 = 288;
 // int sensorMax3 = 275;
