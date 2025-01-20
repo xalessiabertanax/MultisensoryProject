@@ -4,6 +4,12 @@ Welcome to our project of the course Multisensory Interactive Systems by Profess
 
 This project explores the use of a glove equipped with flex sensors on each finger to teach the American Sign Language (ASL) alphabet through an interactive memory game.
 
+
+
+> Please, find our Project Report: [here](https://docs.google.com/document/d/1gL_c4BlxqP8ISIDm0Py-T-ePMDPG7qw1Fc6F-MYCPrk/edit?usp=sharing)
+
+> Please, find all the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=drive_link)
+
 ## Tools:
     - Arduino
     - Flex sensors - 5 pieces
@@ -21,25 +27,20 @@ This project explores the use of a glove equipped with flex sensors on each fing
 
 **There are 3 component directories of the system**
 ```
-    * ArduinoSignLanguageGame
-    * ProcessingSingLanguageGame
-    * PureDataSignLanguageGame
-```
-
-**In each directory, open all the three files at the same time.**
-```
-    - ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino 
-    - ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde
-    - PureDataSignLanguageGame/MAIN.pd
+    - ArduinoSignLanguageGame
+    - ProcessingSingLanguageGame
+    - PureDataSignLanguageGame
 ```
 
 **And follow this order to make the system work**
 
     1. Open and upload the ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino sketch to connected Arduino
 
-    2. Open the **PureDataSignLanguageGame/MAIN.pd**  
+    2. Open the PureDataSignLanguageGame/MAIN.pd
 
     3. Open ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button play to start
+
+> To start the system, each of tehe files mentioned above must be opened at the same time.
 
 
 ## How to play the game
