@@ -1,4 +1,4 @@
-# Multisensory Finger Spelling project
+# Multisensory Quick Sign Language Learning project
 
 Welcome to our project of the course Multisensory Interactive Systems by Professor Luca Turchet in Univerisity of Trento.
 
@@ -13,7 +13,7 @@ Project Report: [here](https://docs.google.com/document/d/1gL_c4BlxqP8ISIDm0Py-T
 
 Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsIl3rfCUv7YJyBS03Tobo?usp=sharing)
 
-All the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=drive_link)
+All the documentation related to the project here [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
     
 ## 🔧Tools used in the project
     - Arduino
