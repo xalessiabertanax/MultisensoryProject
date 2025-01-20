@@ -16,7 +16,7 @@ Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsI
 All the documentation related to the project can be found here: [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
     
 ## 🔧Tools used in the project
-    - Arduino
+    - Arduino micro-contoller
     - Flex sensors - 5 pieces
     - Vibration motor - 1 piece
     - Resistor of 10Ω - 5 pieces
@@ -40,7 +40,7 @@ All the documentation related to the project can be found here: [GoogleDrive](ht
 **Follow this order to make the system work**
 
     1. Open and upload the ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino 
-    sketch to connected Arduino
+    sketch to the connected Arduino micro-controller
 
     2. Open the PureDataSignLanguageGame/MAIN.pd
 
@@ -48,13 +48,27 @@ All the documentation related to the project can be found here: [GoogleDrive](ht
     play to start
 
 > To start the system, each of tehe files mentioned above must be opened at the same time.
+> From this on, user only needs to instruction from the user interface
 
 
 ## 🕹️How to play the game
-The user plays a memory game by memorizing/learning the sign language letters with their corresponding hand gestures Before the game starts, the user wears the glove and the glove is calibrated for the user to be personalized to take into account the hand size and finger length variations. 
+The user engages in the memorization game designed to teach sign language letters through corresponding hand gestures. To complete the game, the user goes through the start screen, calibration screen, memorization game screen, and the final screen. The screens are all explained in more detail. 
 
+**Start**
 
-- During calibration, the user needs to follow the instructions that are displayed on the user interface, where the user needs to stretch his hand and then make a fist with his hand for 3 seconds. 
-After calibration, the game starts by the user presses enter, and the user plays the game of three levels, each has the same 6 letters, in which the user needs to learn the letters by replicating the hand gesture by himself/herself,  by following the letters starting from the highlighted one. The letters will be highlighted one after each when the user makes the correct gesture for 3 seconds. Between levels, the user will be given 5 seconds to prepare for the next level. 
+The user begins by putting on the glove, which is equipped with flex sensors to detect hand gestures. To start the game, the user presses the  Enter button.
 
-- After finishing the levels of the game, the user will be tested on how many of the letters are retained from his/her memory. For example, the following image depicts the example letters with their gestures that will be shown in the user interface.
+**Calibration**
+
+Before the game starts, the glove needs to be calibrated for each individual to account for variations in hand size, finger length variations, and finger bending abilities. During calibration, the user follows on-screen instructions to calibrate the glove. 
+
+- Stretch your hand and hold it open for 3 seconds; 
+- Make a fist with your hand and hold it for 3 seconds;
+
+**Memory-Learn game**
+
+Once the calibration is complete, the user can start the memorization game by pressing the Enter button again. The game consists of three levels, each featuring the same six letters. The user learns the letters by replicating the hand gesture, by mimicking the purple highlighted gesture on the interface. The user must hold the correct gesture for three seconds. This process continues until all six letters are learned at each level. The order of when which letter is highlighted differs per level to avoid the user relying on the sequence rather than truly learning each gesture. After completing the level, the user has five seconds to prepare for the next level. This brief pause allows the user to reset and get ready for the next level.
+
+**Finish**
+
+The finish screen contains the time the user took to complete each level. After completing all levels, the user is tested on their short-term retention of the letters by the researcher. The user needs to mention the letter out loud and perform the corresponding gesture
