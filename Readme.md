@@ -13,7 +13,7 @@ Project Report: [here](https://drive.google.com/file/d/1FhDKdjihH3C6WtuiAkJMdMqA
 
 Project demo video: [here](https://drive.google.com/drive/folders/1hFU4EqIl6tcsIl3rfCUv7YJyBS03Tobo?usp=sharing)
 
-All the documentation related to the project can be found here: [GoogleDrive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
+All the documentation related to the project can be found here: [Google Drive](https://drive.google.com/drive/folders/1SSq1FzPsZK90wIQJlsbJ2PDyiV-El-Cn?usp=sharing)
     
 ## 🔧Tools used in the project
     - Arduino micro-contoller
@@ -22,11 +22,12 @@ All the documentation related to the project can be found here: [GoogleDrive](ht
     - Resistor of 10Ω - 5 pieces
     - Breadboard
     - Jumper wires
+    - A plain glove
 
 ## 💻Software tools used in the project
-    - Arduino
-    - Processing
-    - Pure Data
+    - Arduino 2.3.3 
+    - Processing 4.3
+    - Pure Data 0.54.1
 
 ## ⚙️ How to make it work?
 
@@ -39,19 +40,19 @@ All the documentation related to the project can be found here: [GoogleDrive](ht
 
 **Follow this order to make the system work**
 
-    1. Open and upload the ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino 
+    1. Open and upload the /ArduinoSignLanguageGame/ArduinoSignLanguageGame.ino 
     sketch to the connected Arduino micro-controller
 
-    2. Open the PureDataSignLanguageGame/MAIN.pd
+    2. Open the /PureDataSignLanguageGame/MAIN.pd
 
-    3. Open ProcessingSingLanguageGame/ProcessingSingLanguageGame.pde and press button 
+    3. Open /ProcessingSignLanguageGame/ProcessingSignLanguageGame.pde and press button 
     play to start
 
 > To start the system, each of tehe files mentioned above must be opened at the same time.
 > From this on, user only needs to instruction from the user interface
 
 
-## 🕹️How to play the game
+## 🕹️How to play the game 🖐️
 The user engages in the memorization game designed to teach sign language letters through corresponding hand gestures. To complete the game, the user goes through the start screen, calibration screen, memorization game screen, and the final screen. The screens are all explained in more detail. 
 
 **Start**
